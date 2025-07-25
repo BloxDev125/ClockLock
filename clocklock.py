@@ -43,7 +43,12 @@ except ImportError:
 CONFIG_FILE = "config.json"
 HISTORY_FILE = "unlock_history.json"
 RECENT_FILES_FILE = "recent_files.json"
-SECRET_KEY = b"lockthisshituwontseeitagain"
+
+# WARNING:
+# Do NOT put your actual key here in public repos!
+# Replace this with your secure key before building the .exe
+SECRET_KEY = b"put_your_secret_key_here"
+
 MAX_HISTORY_ENTRIES = 50
 MAX_RECENT_FILES = 20
 CHUNK_SIZE = 8192  # For file I/O operations
