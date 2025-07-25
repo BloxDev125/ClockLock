@@ -1,6 +1,6 @@
 # 🔒 ClockLock ⏳
 
-**ClockLock** is a Python-based GUI app to **lock files or folders until a future time** using strong encryption. Designed for focus, fun, and security.
+**ClockLock** is a Python-based GUI app to **lock files or folders until a future time** using strong encryption.
 
 ![screenshot-placeholder](https://raw.githubusercontent.com/BloxDev125/ClockLock/refs/heads/main/assets/screenshot.png)
 
